@@ -1,0 +1,4 @@
+[submodule "FamilyMapServer"]
+	path = FamilyMapServer
+	url = git@github.com:cweeks12/FamilyMapServer.git
+	branch = master
